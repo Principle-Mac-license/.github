@@ -1,6 +1,6 @@
 ## Principle Mac Studio License
 
-<img src="https://images.seeklogo.com/logo-png/37/2/principle-app-logo-png_seeklogo-372147.png" width="200" alt="App icon" align="left"/>
+<img src="https://cdn.worldvectorlogo.com/logos/principle-app-2.svg" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Principle for macOS</h3>
@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-3.7k-brightgreen?style=flat" alt="downloads"/></a>
-<a href="#"><img src="https://img.shields.io-badge/version-4.0-blue?style=flat" alt="version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/version-4.0-blue?style=flat" alt="version"/></a>
 <a href="#"><img src="https://img.shields.io/badge/license-Studio%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
